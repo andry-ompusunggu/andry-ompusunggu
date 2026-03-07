@@ -1,4 +1,4 @@
-# Hi there, I'm Andre 👋
+# Hi there, I'm Andry 👋
 
 I am a **Full-Stack Software Engineer** with over 5 years of experience in designing and building scalable software solutions, from the frontend to the backend. 
 
