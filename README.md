@@ -3,9 +3,9 @@
 I am a **Full-Stack Software Engineer** with over 5 years of experience in designing and building scalable software solutions, from the frontend to the backend. 
 
 ### 🚀 What I'm currently working on
-- 🔭 Building a **personal portfolio aggregator** application.
-- 📱 Developing **iPadReader**, a mobile application built with **React Native** and **Expo**.
-- 🌱 Continuously refining my skills and exploring best practices in the JavaScript ecosystem (**Node.js, React, Next.js**) and **PHP**.
+- 🔭 Architecting **Project Argos**, a high-throughput, event-driven IoT telematics pipeline using **Node.js, Apache Kafka, and Golang**.
+- 🌱 Deepening my expertise in **Distributed Systems** and **System Design**, while continually refining my foundations in **PHP** and the **JavaScript ecosystem**.
+- 👯 Looking to collaborate on high-scalability backend challenges or open-source infrastructure tools.
 
 ### 🛠️ Tech Stack & Expertise
 - **Frontend:** React, Next.js, React Native, Expo
